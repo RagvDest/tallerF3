@@ -4,3 +4,4 @@
 - Richard Heredia
 - Renny Gorozabel
 - Bryan Vizuete
+- Harold Flores
